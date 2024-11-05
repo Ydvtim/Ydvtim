@@ -24,7 +24,7 @@
 
 | Projeto        | Descrição                                                   
 |----------------|----------------------------------------------|
-| [Projeto 1]() | Um projeto em Java        
+| [Projeto 1](https://github.com/Ydvtim/CTI-P7-POO-20242-LISTA01) | Um projeto em Java        
 | [Projeto 2]() | Um projeto em Python               
 
 ---
