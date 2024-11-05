@@ -1,7 +1,7 @@
 <section id="apresentacao">
   <h1 align="center"> Apresentação </h1>
   <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines= Meu +name+é+Rayane+ Sousa+ ☺️;Sempre+em+busca+de +conhecimento!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines= Meu +name+é+Rayane+ Sousa+🙃;Sempre+em+busca+de +conhecimento!" alt="Typing SVG" /></a>
   </div>
   <b>Técnica em informática | Apaixonada em soluções de Problemas</b>
 </p>
@@ -38,8 +38,10 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
 - Python
 - Java
 - HTML
+- <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 - ## 📈 Estatísticas do GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&hide_title=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=ffb6c1&bg_color=282a36" alt="Estatísticas do GitHub" />
 </p>
+
