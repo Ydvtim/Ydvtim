@@ -35,7 +35,6 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
 - Python
 - Java
 - HTML
-- 
 - ## 📈 Estatísticas do GitHub
 
 <p align="center">
