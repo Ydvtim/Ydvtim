@@ -22,9 +22,11 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
 -------------------------------------------
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 - ## 📈 Estatísticas do GitHub
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ydvtim&show_icons=true&hide_title=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=ffb6c1&bg_color=282a36" alt="Estatísticas do GitHub" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydvtim&layout=compact&langs_count=3&title_color=000000&text_color=000000&bg_color=ffc0cb" alt="Linguagens mais usadas: Python, Java, HTML" />
 </p>
 
 <p align="center">
