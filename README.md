@@ -41,13 +41,3 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&hide_title=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=ffb6c1&bg_color=282a36" alt="Estatísticas do GitHub" />
 </p>
-
-## 🐍 Cobrinha comendo minhas contribuições
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seunome/seunome/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seunome/seunome/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/seunome/seunome/output/github-contribution-grid-snake.svg">
-</picture>
-
-
