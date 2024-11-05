@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou Rayane Sousa! 👋</h1>
 <p align="center">
-  <b>Técnica em informática | Apaixonada soluções de Problemas</b>
+  <b>Técnica em informática | Apaixonada em soluções de Problemas</b>
 </p>
 
 ---
