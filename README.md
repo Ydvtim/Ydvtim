@@ -41,8 +41,7 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
 ### 📫 Entre em Contato
 
 <p align="center">
-  <a href="mailto:seuemail@exemplo.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/seulinkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:Rayanesousa@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 - ## 📈 Estatísticas do GitHub:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&hide_title=true)
 
