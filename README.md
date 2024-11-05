@@ -1,7 +1,7 @@
  <section id="apresentacao">
   <h1 align="center"> Apresentação </h1>
   <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines= Meu +name+é+Rayane+ Sousa+🙃;Sempre+em+busca+de +conhecimento!" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines= Meu +nome+é+Rayane+ Sousa+🙃;Sempre+em+busca+de +conhecimento!" alt="Typing SVG" /></a>
   </div>
   <b>Técnica em informática | Apaixonada em soluções de Problemas 😁</b>
 </p>
