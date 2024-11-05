@@ -25,7 +25,7 @@
 | Projeto        | Descrição                                                   
 |----------------|----------------------------------------------|
 | [Projeto 1](https://github.com/Ydvtim/CTI-P7-POO-20242-LISTA01) | Um projeto em Java        
-| [Projeto 2](https://github.com/Ydvtim/Atividades-WEB-I---HTML) | Um projeto em Python               
+| [Projeto 2](https://github.com/Ydvtim/Atividades-WEB-I---HTML) | Um projeto em HTML               
 
 ---
 
@@ -35,6 +35,10 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
 - Python
 - Java
 - HTML
-- ## 📈 Estatísticas do GitHub:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&hide_title=true)
+- 
+- ## 📈 Estatísticas do GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seunome&show_icons=true&hide_title=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=ffb6c1&bg_color=282a36" alt="Estatísticas do GitHub" />
+</p>
 
