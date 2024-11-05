@@ -1,3 +1,8 @@
+ <p align="center">
+        <a href="https://longtao.fun">
+            <img src="cat.webp" width="50"/>
+        </a>
+    </p>
 <section id="apresentacao">
   <h1 align="center"> Apresentação </h1>
   <div align="center">
