@@ -11,7 +11,8 @@
 | Projeto        | Descrição                                                   
 |----------------|----------------------------------------------|
 | [Projeto 1](https://github.com/Ydvtim/CTI-P7-POO-20242-LISTA01) | Um projeto em Java        
-| [Projeto 2](https://github.com/Ydvtim/Atividades-WEB-I---HTML) | Um projeto em HTML             
+| [Projeto 2](https://github.com/Ydvtim/Atividades-WEB-I---HTML) | Atividades em HTML 
+| [Projeto 3](https://github.com/Ydvtim/Projetos-WEB-I-HTML)| projetos em HTML
 
 ### 🎯 Foco Atual
 
