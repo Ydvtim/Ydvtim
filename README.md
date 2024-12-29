@@ -32,5 +32,5 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
 
 <p align="center">
   <a href="mailto: rayanesousa@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://instagram.com/https://www.instagram.com/rayanesousa20.24?igsh=MXFlM3JmeGN0cHEyNQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/rayanesousa20.24?igsh=MXFlM3JmeGN0cHEyNQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
