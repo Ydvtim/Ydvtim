@@ -19,8 +19,10 @@
 Estou sempre em busca de aprender novas tecnologias e resolver problemas desafiadores. Atualmente, meu foco está em:
 - Java ☕
 - HTML & CSS 🖌️
+- Administração de Servidores (Adms)
 ## Linguagem aprendida:
-- Python 🐍 
+- Python 🐍
+- SQL
 -------------------------------------------
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
 - ## 📈 Estatísticas do GitHub
