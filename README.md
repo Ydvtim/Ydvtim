@@ -20,6 +20,7 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
 - Java ☕
 - HTML & CSS 🖌️
 - Administração de Servidores (Adms)
+- C & C++
 ## Linguagem aprendida:
 - Python 🐍
 - SQL 🗄️
