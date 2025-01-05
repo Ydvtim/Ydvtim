@@ -62,3 +62,4 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ydvtim/Ydvtim/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ydvtim/Ydvtim/output/github-contribution-grid-snake.svg">
 </picture>
+
