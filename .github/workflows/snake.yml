@@ -20,7 +20,9 @@ jobs:
           outputs: dist
 
       - name: Push generated Snake
-        uses: actions/upload-artifact@v3
-        with:
-          name: github-contribution-grid-snake
-          path: dist
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Generated snake animation"
+          git push origin output
