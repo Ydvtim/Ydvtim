@@ -56,3 +56,9 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
 <p align="center">
 <a href="https://www.linkedin.com/in/rayane-sousa-51ba20268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn &logoColor=white"/></a>
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ydvtim/Ydvtim/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ydvtim/Ydvtim/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ydvtim/Ydvtim/output/github-contribution-grid-snake.svg">
+</picture>
