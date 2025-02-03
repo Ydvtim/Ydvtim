@@ -20,8 +20,8 @@
 
 Estou sempre em busca de aprender novas tecnologias e resolver problemas desafiadores. Atualmente, meu foco está em:
 - Java ☕
-- HTML & CSS 🖌️
-- Administração de Servidores (Adms)
+- HTML, CSS & Javascript 👩🏼‍💻
+- português 🥲
 - C & C++ 💻
 
 ## Linguagens aprendidas e aprendendo:
