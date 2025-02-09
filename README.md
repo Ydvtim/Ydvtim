@@ -12,9 +12,9 @@
 
 | Projeto        | Descrição                                                   
 |----------------|----------------------------------------------|
-| [Projeto 1](https://github.com/Ydvtim/CTI-P7-POO-20242-LISTA01) | Projetos em Java        
-| [Projeto 2](https://github.com/Ydvtim/Atividades-WEB-I---HTML) | Atividades em HTML 
-| [Projeto 3](https://github.com/Ydvtim/Projetos-WEB-I-HTML)| Projetos em HTML
+| [Jogo da velha para computador](https://ydvtim.github.io/Jogo_da_velha_/) | Projeto HTML, CSS, Javascript  
+| [jogo da velha para celular e pc](https://ydvtim.github.io/Jogo_da_velha_/  ) | Projeto HTML, CSS, Javascript
+| [Projeto 3]()| Projetos em HTML
 
 ### 🎯 Foco Atual
 
