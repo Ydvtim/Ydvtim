@@ -35,7 +35,7 @@ Estou sempre em busca de aprender novas tecnologias e resolver problemas desafia
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/C -00599C?style=for-the-badge&logo=logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Javascript-3776AB?style=for-the-badge&logo=Javascript &logoColor=white"/>
   <img 
 </div>
 
