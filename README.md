@@ -12,9 +12,9 @@
 
 | Projeto        | Descrição                                                   
 |----------------|----------------------------------------------|
-| [Jogo da velha para computador](https://ydvtim.github.io/Jogo_da_velha_/) | Projeto HTML, CSS, Javascript  
-| [Jogo da velha para celular e pc](https://ydvtim.github.io/jogo_da_velha/  ) | Projeto HTML, CSS, Javascript
-| [Projeto 3]()| Projetos em HTML
+| [Jogo da velha para computador](https://ydvtim.github.io/Jogo_da_velha_/) | Projeto HTML, CSS, Javascript  .
+| [Jogo da velha para celular e pc](https://ydvtim.github.io/jogo_da_velha/  ) | Projeto HTML, CSS, Javascript.
+| [Cartão De Visitas](https://ydvtim.github.io/CartaoCSS/)| Projeto só com HTML e CSS o básico.
 
 ### 🎯 Foco Atual
 
