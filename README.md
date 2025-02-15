@@ -23,9 +23,6 @@
  <a href="https://www.instagram.com/rayanesousa20.25?igsh=MXFlM3JmeGN0cHEyNQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rayane-sousa-51ba20268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://t.me/rayanesousa_y" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-  </a>
 </p>
 <h2> <img src="https://static.wixstatic.com/media/351fc9_9a5cdaba308a4e21971a00f0f0e83e47~mv2.gif" alt="📌"width="30" height="36"> 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 :</h2>
 
