@@ -1,4 +1,4 @@
-<h2> 💫 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 : </h2>
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" alt="💫" width="32" height="32"> 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 :</h2>
 <div align="center">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=𝓞𝓵á,+𝓫𝓮𝓶+𝓿𝓲𝓷𝓭𝓸+𝓪𝓸+𝓶𝓮𝓾+𝓰𝓲𝓽!🥰;Sou+𝓡𝓪𝔂𝓪𝓷𝓮+𝓢𝓸𝓾𝓼𝓪,+muito+𝓹𝓻𝓪𝔃𝓮𝓻!🤗;" alt="Typing SVG" />
@@ -13,7 +13,7 @@
 <li>Pintar, desenhar 🖌️.</li>
 </ul>
 
-<h2>🌐 𝓡𝓮𝓭𝓮𝓼 𝓢𝓸𝓬𝓲𝓪𝓲𝓼 :</h2>
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" alt="🗺️" width="32" height="32"> 𝓡𝓮𝓭𝓮s 𝓢𝓸𝓬𝓲𝓪𝓲𝓼 :</h2>
 
 <p align="center">
   <a href="mailto: rayanesousa@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
-<h2>📌 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 :</h2>
+<h2> <img src="https://static.wixstatic.com/media/351fc9_9a5cdaba308a4e21971a00f0f0e83e47~mv2.gif" alt="📌"width="30" height="36"> 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 :</h2>
 
 <table align="center">
   <tr>
@@ -49,7 +49,7 @@
   </tr>
 </table>
 
-<h2>👩🏼‍💻 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓮 𝓔𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓪𝓼:</h2>
+<h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" alt="👩🏽‍💻"width="32" height="32"> 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓮 𝓔𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓪𝓼:</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
