@@ -24,7 +24,30 @@
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
-<h2>📌 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓹𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 :</h2>
+<h2>📌 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 :</h2>
+
+<table align="center">
+  <tr>
+    <th>Projetos</th>
+    <th>Descrição</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td><img src="![17396349015757001617438518548301](https://github.com/user-attachments/assets/786086aa-fe98-4c82-8170-62f590e61feb)" alt="Jogo da Velha" width="50" height="50"></td>
+    <td>Jogo da Velha em Python</td>
+    <td><a href="https://github.com/Ydvtim/repositorio-jogo-da-velha">🔗 Acessar</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://link-da-imagem-do-projeto2" alt="Projeto 2" width="50" height="50"></td>
+    <td>Descrição breve do projeto 2</td>
+    <td><a href="https://github.com/Ydvtim/repositorio-projeto2">🔗 Acessar</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://link-da-imagem-do-projeto3" alt="Projeto 3" width="50" height="50"></td>
+    <td>Descrição breve do projeto 3</td>
+    <td><a href="https://github.com/Ydvtim/repositorio-projeto3">🔗 Acessar</a></td>
+  </tr>
+</table>
 
 <h2>👩🏼‍💻 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓮 𝓔𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓪𝓼:</h2>
 
