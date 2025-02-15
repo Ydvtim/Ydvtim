@@ -38,14 +38,14 @@
     <td><a href="https://ydvtim.github.io/Jogo_da_velha_/">🔗 Acessar</a></td>
   </tr>
   <tr>
-    <td><img src="https://link-da-imagem-do-projeto2" alt="Projeto 2" width="50" height="50"></td>
-    <td></td>
-    <td><a href="https://github.com/Ydvtim/repositorio-projeto2">🔗 Acessar</a></td>
+    <td><img src="https://i.pinimg.com/originals/ed/63/2d/ed632d2c0be082416a22d497c52d5b41.jpg" alt="Melissa Podebrat" width="50" height="50"></td>
+    <td>Sobre Melissa Podebrat</td>
+    <td><a href="https://ydvtim.github.io/CSS-Projeto-2/">🔗 Acessar</a></td>
   </tr>
   <tr>
-    <td><img src="https://link-da-imagem-do-projeto3" alt="Projeto 3" width="50" height="50"></td>
-    <td></td>
-    <td><a href="https://github.com/Ydvtim/repositorio-projeto3">🔗 Acessar</a></td>
+    <td><img src="https://i.pinimg.com/736x/d3/a3/aa/d3a3aa82d5eb49a8184b3d38dbf229d0.jpg" alt="Vegeta" width="50" height="50"></td>
+    <td>Sobre Vegeta</td>
+    <td><a href="https://ydvtim.github.io/projtes/">🔗 Acessar</a></td>
   </tr>
 </table>
 
