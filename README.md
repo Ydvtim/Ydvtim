@@ -1,7 +1,7 @@
 <h2> 💫 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 : </h2>
 <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=𝓞𝓵á,+𝓫𝓮𝓶+𝓿𝓲𝓷𝓭𝓸+𝓪𝓸+𝓶𝓮𝓾+𝓰𝓲𝓽!🥰;𝓢𝓸𝓾+𝓡𝓪𝔂𝓪𝓷𝓮+𝓢𝓸𝓾𝓼𝓪,+𝓶𝓾𝓲𝓽𝓸+𝓹𝓻𝓪𝔃𝓮𝓻 😉!" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=𝓞𝓵á,+𝓫𝓮𝓶+𝓿𝓲𝓷𝓭𝓸+𝓪𝓸+𝓶𝓮𝓾+𝓰𝓲𝓽!🥰;Sou+𝓡𝓪𝔂𝓪𝓷𝓮+𝓢𝓸𝓾𝓼𝓪,+muito+𝓹𝓻𝓪𝔃𝓮𝓻!🤗;" alt="Typing SVG" />
     </a>
   </div>
 <p>𝕊𝕠𝕦 𝕖𝕤𝕥𝕦𝕕𝕒𝕟𝕥𝕖 𝕕𝕖 𝕋.𝕀 𝕟𝕠 𝕀𝔽ℂ𝔼-𝕔𝕒𝕞𝕡𝕦𝕤 𝕄𝕒𝕣𝕒𝕟𝕘𝕦𝕒𝕡𝕖, 𝕒𝕥𝕦𝕒𝕝𝕞𝕖𝕟𝕥𝕖 𝕖𝕤𝕥𝕠𝕦 𝕟𝕠 𝕤𝕖𝕞𝕖𝕤𝕥𝕣𝕖 5.</p>
