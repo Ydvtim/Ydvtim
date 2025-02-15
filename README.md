@@ -20,7 +20,7 @@
  <a href="https://www.instagram.com/rayanesousa20.25?igsh=MXFlM3JmeGN0cHEyNQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rayane-sousa-51ba20268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="t.me/rayanesousa_y" target="_blank">
+  <a href="http://t.me/rayanesousa_y" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
