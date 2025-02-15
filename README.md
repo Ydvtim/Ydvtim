@@ -8,7 +8,7 @@
 <ul>
 <li>Gosto de ler 📖 🌱.</li>
 <li>De jogar 🎮.</li>
-<li>Programar 👩🏼‍💻.</li>
+<li>Desenvolver 👩🏼‍💻.</li>
 <li>Ouvir música, tocar 🎶🎧.</li>
 <li>Pintar, desenhar 🖌️.</li>
 </ul>
