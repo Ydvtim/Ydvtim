@@ -34,17 +34,17 @@
   </tr>
   <tr>
     <td><img src="https://play-lh.googleusercontent.com/m4q9E20bhC-UAtFNDulpIKb2NQ9eBaCQ7rhUsmA-ENRlKyKPEPhkkFod6l_sI7EXBztf=s180" alt="Jogo da Velha" width="50" height="50"></td>
-    <td>Jogo da Velha em Python</td>
-    <td><a href="https://github.com/Ydvtim/repositorio-jogo-da-velha">🔗 Acessar</a></td>
+    <td>Jogo em HTML,CSS, Javascript</td>
+    <td><a href="https://ydvtim.github.io/Jogo_da_velha_/">🔗 Acessar</a></td>
   </tr>
   <tr>
     <td><img src="https://link-da-imagem-do-projeto2" alt="Projeto 2" width="50" height="50"></td>
-    <td>Descrição breve do projeto 2</td>
+    <td></td>
     <td><a href="https://github.com/Ydvtim/repositorio-projeto2">🔗 Acessar</a></td>
   </tr>
   <tr>
     <td><img src="https://link-da-imagem-do-projeto3" alt="Projeto 3" width="50" height="50"></td>
-    <td>Descrição breve do projeto 3</td>
+    <td></td>
     <td><a href="https://github.com/Ydvtim/repositorio-projeto3">🔗 Acessar</a></td>
   </tr>
 </table>
