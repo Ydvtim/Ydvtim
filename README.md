@@ -67,3 +67,4 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydvtim&layout=compact&langs_count=5&title_color=000000&text_color=000000&bg_color=ffc0cb" alt="Linguagens mais usadas: Python, Java, HTML, C, C++, SQL" />
 </p>
+![Gbs5676 snake gif](https://github.com/Ydvtim/Ydvtim/blob/output/github-snake.svg)
