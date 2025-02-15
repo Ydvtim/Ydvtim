@@ -1,3 +1,6 @@
+<div align="center">
+    <img src="https://64.media.tumblr.com/7bcc62b5482c7d8ab645602f9867997d/tumblr_o0ju28PlDu1u18z8vo1_500.gif" alt="gif" >
+</div>
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" alt="💫" width="32" height="32"> 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 :</h2>
 <div align="center">
     <a href="https://git.io/typing-svg">
