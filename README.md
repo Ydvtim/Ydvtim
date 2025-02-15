@@ -33,7 +33,7 @@
     <th>Links</th>
   </tr>
   <tr>
-    <td><img src="![17396349015757001617438518548301](https://github.com/user-attachments/assets/786086aa-fe98-4c82-8170-62f590e61feb)" alt="Jogo da Velha" width="50" height="50"></td>
+    <td><img src="https://play-lh.googleusercontent.com/m4q9E20bhC-UAtFNDulpIKb2NQ9eBaCQ7rhUsmA-ENRlKyKPEPhkkFod6l_sI7EXBztf=s180" alt="Jogo da Velha" width="50" height="50"></td>
     <td>Jogo da Velha em Python</td>
     <td><a href="https://github.com/Ydvtim/repositorio-jogo-da-velha">🔗 Acessar</a></td>
   </tr>
