@@ -16,7 +16,7 @@
 <li>Pintar, desenhar 🖌️.</li>
 </ul>
 
-<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" alt="🗺️" width="32" height="32"> 𝓡𝓮𝓭𝓮𝓼 𝓢𝓸𝓬𝓲𝓪𝓲𝓼 :</h2>
+<h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" alt="🗺️" width="32" height="32"> 𝓒𝓸𝓷𝓽𝓪𝓽𝓸 :</h2>
 
 <p align="center">
   <a href="mailto: rayanesousa@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
