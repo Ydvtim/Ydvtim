@@ -38,9 +38,9 @@
     <td><a href="https://ydvtim.github.io/Jogo_da_velha_/">🔗 Acessar</a></td>
   </tr>
   <tr>
-    <td><img src="https://i.pinimg.com/originals/ed/63/2d/ed632d2c0be082416a22d497c52d5b41.jpg" alt="Melissa Podebrat" width="50" height="50"></td>
-    <td>Sobre Melissa Podebrat</td>
-    <td><a href="https://ydvtim.github.io/CSS-Projeto-2/">🔗 Acessar</a></td>
+    <td><img src="https://play-lh.googleusercontent.com/m4q9E20bhC-UAtFNDulpIKb2NQ9eBaCQ7rhUsmA-ENRlKyKPEPhkkFod6l_sI7EXBztf=s180" alt="jogo da velha celular" width="50" height="50"></td>
+    <td> Jogo da velha para celular</td>
+    <td><a href="https://ydvtim.github.io/jogo_da_velha/">🔗 Acessar</a></td>
   </tr>
   <tr>
     <td><img src="https://i.pinimg.com/736x/d3/a3/aa/d3a3aa82d5eb49a8184b3d38dbf229d0.jpg" alt="Vegeta" width="50" height="50"></td>
