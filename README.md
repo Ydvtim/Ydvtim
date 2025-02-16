@@ -19,7 +19,7 @@
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" alt="🗺️" width="32" height="32"> 𝓒𝓸𝓷𝓽𝓪𝓽𝓸 :</h2>
 
 <p align="center">
-  <a href="mailto: rayanesousa@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href = "mailto: rayanesousa@aluno.ifce.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.instagram.com/rayanesousa20.25?igsh=MXFlM3JmeGN0cHEyNQ=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/rayane-sousa-51ba20268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
