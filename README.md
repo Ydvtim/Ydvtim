@@ -37,15 +37,14 @@
 
 <h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" alt="👩🏽‍💻"width="32" height="32"> 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓮 𝓔𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓪𝓼:</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,cpp,c,arduino,github,eclipse,mysql,html,java,css&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ydvtim&show_icons=true&hide_title=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=ffb6c1&bg_color=282a36" alt="Estatísticas do GitHub" style="display: inline-block; width: 89; max-width: 89;"/>
+  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydvtim&layout=compact&langs_count=5&title_color=000000&text_color=000000&bg_color=ffc0cb" alt="Linguagens mais usadas" style="display: inline-block; width: 89; max-width: 89;"/>
 </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ydvtim&show_icons=true&hide_title=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=ffb6c1&bg_color=282a36" alt="Estatísticas do GitHub" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydvtim&layout=compact&langs_count=5&title_color=000000&text_color=000000&bg_color=ffc0cb" alt="Linguagens mais usadas: Python, Java, HTML, C, C++, SQL" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,cpp,c,arduino,github,eclipse,mysql,html,java,css&theme=dark"/>
+</div>
 <p align="center">
   <img src="https://media4.giphy.com/media/drXjWYTyh0eg79TeEl/giphy.gif?cid=6c09b9525tozfnezrm3l1um98h8wxf4ii4wfqc0dvidsbfxo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="150" height="140"> 
 </p>
