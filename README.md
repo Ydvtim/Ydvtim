@@ -65,10 +65,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydvtim&layout=compact&langs_count=5&title_color=000000&text_color=000000&bg_color=ffc0cb" alt="Linguagens mais usadas: Python, Java, HTML, C, C++, SQL" />
 </p>
-
 <p align="center">
-  <span style="font-size: 26px; color: #FF69B4;">
-    𝓥𝓲𝓼𝓲𝓽𝓪𝓼 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓻𝓸𝓯𝓲𝓵:
-  </span><br>
-  <img src="https://profile-counter.glitch.me/Ydvtim/count.svg" alt="Contador de Visitas">
+  <img src="https://media4.giphy.com/media/drXjWYTyh0eg79TeEl/giphy.gif?cid=6c09b9525tozfnezrm3l1um98h8wxf4ii4wfqc0dvidsbfxo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="150" height="140"> 
 </p>
+    <p align="center">𝓥𝓲𝓼𝓲𝓽𝓪𝓼 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓻𝓸𝓯𝓲𝓵:
+  <img src="https://profile-counter.glitch.me/Ydvtim/count.svg" alt="Contador de Visitas">
+    </p>
+
