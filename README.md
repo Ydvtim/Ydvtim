@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/rayane-sousa-51ba20268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-<h2> <img src="https://static.wixstatic.com/media/351fc9_9a5cdaba308a4e21971a00f0f0e83e47~mv2.gif" alt="📌"width="30" height="36"> 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓟𝓻𝓲𝓷𝓬𝓲𝓹𝓪𝓲𝓼 :</h2>
+<h2> <img src="https://static.wixstatic.com/media/351fc9_9a5cdaba308a4e21971a00f0f0e83e47~mv2.gif" alt="📌"width="30" height="36"> 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓺𝓾𝓮 𝓰𝓸𝓼𝓽𝓸:</h2>
 
 <table align="center">
   <tr>
@@ -39,11 +39,6 @@
     <td><img src="https://play-lh.googleusercontent.com/m4q9E20bhC-UAtFNDulpIKb2NQ9eBaCQ7rhUsmA-ENRlKyKPEPhkkFod6l_sI7EXBztf=s180" alt="jogo da velha celular" width="50" height="50"></td>
     <td> Jogo da velha para celular</td>
     <td><a href="https://ydvtim.github.io/jogo_da_velha/">🔗 Acessar</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://i.pinimg.com/736x/d3/a3/aa/d3a3aa82d5eb49a8184b3d38dbf229d0.jpg" alt="Vegeta" width="50" height="50"></td>
-    <td>Sobre Vegeta</td>
-    <td><a href="https://ydvtim.github.io/projtes/">🔗 Acessar</a></td>
   </tr>
 </table>
 
