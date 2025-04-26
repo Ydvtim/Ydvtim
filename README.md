@@ -37,7 +37,7 @@
 
 <h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" alt="👩🏽‍💻"width="32" height="32"> 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓮 𝓔𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓪𝓼:</h2>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,cpp,c,arduino,github,eclipse,html,java,css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,cpp,c,arduino,github,eclipse,mysql,html,java,css&theme=dark"/>
 </div>
 
 <p align="center">
