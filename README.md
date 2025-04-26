@@ -6,13 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Ola,+bem+vindo+ao+meu+git!;Sou+Rayane+Sousa+muito+prazer!;&font=Pacifico&center=true&width=380&height=50&duration=4000&pause=1000&color=F75C7E" alt="Typing SVG">
 </p>
 <p>𝕊𝕠𝕦 𝕖𝕤𝕥𝕦𝕕𝕒𝕟𝕥𝕖 𝕕𝕖 𝕋.𝕀 𝕟𝕠 𝕀𝔽ℂ𝔼-𝕔𝕒𝕞𝕡𝕦𝕤 𝕄𝕒𝕣𝕒𝕟𝕘𝕦𝕒𝕡𝕖, 𝕒𝕥𝕦𝕒𝕝𝕞𝕖𝕟𝕥𝕖 𝕖𝕤𝕥𝕠𝕦 𝕟𝕠 𝕤𝕖𝕞𝕖𝕤𝕥𝕣𝕖 5.</p>
-<ul>
-<li>Gosto de ler 📖 🌱.</li>
-<li>De jogar 🎮.</li>
-<li>Desenvolver 👩🏼‍💻.</li>
-<li>Ouvir música, tocar 🎶🎧.</li>
-<li>Pintar, desenhar 🖌️.</li>
-</ul>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" alt="🗺️" width="32" height="32"> 𝓒𝓸𝓷𝓽𝓪𝓽𝓸 :</h2>
 
@@ -43,17 +36,10 @@
 </table>
 
 <h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" alt="👩🏽‍💻"width="32" height="32"> 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓮 𝓔𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓪𝓼:</h2>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,cpp,c,arduino,github,eclipse,html,java,css&theme=dark"/>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ydvtim&show_icons=true&hide_title=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=ffb6c1&bg_color=282a36" alt="Estatísticas do GitHub" />
 </p>
