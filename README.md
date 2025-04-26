@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://64.media.tumblr.com/7bcc62b5482c7d8ab645602f9867997d/tumblr_o0ju28PlDu1u18z8vo1_500.gif" alt="gif" >
+    <img src="https://media4.giphy.com/media/lBbBus2vlRT1i8rDEL/giphy.gif?cid=6c09b952tu3e4khqlekc9vbyirni5ln8007enlj6e6zwskdk&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" alt="gif" width="99" height="99">
 </div>
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" alt="💫" width="32" height="32"> 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 :</h2>
 <p align="center">
