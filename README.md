@@ -15,25 +15,6 @@
 <a href="https://www.linkedin.com/in/rayane-sousa-51ba20268?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
-<h2> <img src="https://static.wixstatic.com/media/351fc9_9a5cdaba308a4e21971a00f0f0e83e47~mv2.gif" alt="📌"width="30" height="36"> 𝓟𝓻𝓸𝓳𝓮𝓽𝓸𝓼 𝓺𝓾𝓮 𝓰𝓸𝓼𝓽𝓸:</h2>
-
-<table align="center">
-  <tr>
-    <th>Projetos</th>
-    <th>Descrição</th>
-    <th>Links</th>
-  </tr>
-  <tr>
-    <td><img src="https://play-lh.googleusercontent.com/m4q9E20bhC-UAtFNDulpIKb2NQ9eBaCQ7rhUsmA-ENRlKyKPEPhkkFod6l_sI7EXBztf=s180" alt="Jogo da Velha" width="50" height="50"></td>
-    <td>Jogo em HTML,CSS, Javascript</td>
-    <td><a href="https://ydvtim.github.io/Jogo_da_velha_/">🔗 Acessar</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://play-lh.googleusercontent.com/m4q9E20bhC-UAtFNDulpIKb2NQ9eBaCQ7rhUsmA-ENRlKyKPEPhkkFod6l_sI7EXBztf=s180" alt="jogo da velha celular" width="50" height="50"></td>
-    <td> Jogo da velha para celular</td>
-    <td><a href="https://ydvtim.github.io/jogo_da_velha/">🔗 Acessar</a></td>
-  </tr>
-</table>
 
 <h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" alt="👩🏽‍💻"width="32" height="32"> 𝓣𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼 𝓮 𝓔𝓼𝓽𝓪𝓽𝓲𝓼𝓽𝓲𝓬𝓪𝓼:</h2>
 <div align="center">
