@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Ola,+bem+vindo+ao+meu+git!;Sou+Rayane+Sousa+muito+prazer!;&font=Pacifico&center=true&width=380&height=50&duration=4000&pause=1000&color=F75C7E" alt="Typing SVG">
 </p>
-<p>𝕊𝕠𝕦 𝕖𝕤𝕥𝕦𝕕𝕒𝕟𝕥𝕖 𝕕𝕖 𝕋.𝕀 𝕟𝕠 𝕀𝔽ℂ𝔼-𝕔𝕒𝕞𝕡𝕦𝕤 𝕄𝕒𝕣𝕒𝕟𝕘𝕦𝕒𝕡𝕖, 𝕒𝕥𝕦𝕒𝕝𝕞𝕖𝕟𝕥𝕖 𝕖𝕤𝕥𝕠𝕦 𝕟𝕠 𝕤𝕖𝕞𝕖𝕤𝕥𝕣𝕖 5.</p>
+<p align="center">𝕊𝕠𝕦 𝕖𝕤𝕥𝕦𝕕𝕒𝕟𝕥𝕖 𝕕𝕖 𝕋.𝕀 𝕟𝕠 𝕀𝔽ℂ𝔼-𝕔𝕒𝕞𝕡𝕦𝕤 𝕄𝕒𝕣𝕒𝕟𝕘𝕦𝕒𝕡𝕖, 𝕒𝕥𝕦𝕒𝕝𝕞𝕖𝕟𝕥𝕖 𝕖𝕤𝕥𝕠𝕦 𝕟𝕠 𝕤𝕖𝕞𝕖𝕤𝕥𝕣𝕖 5.</p>
 
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f30d/512.webp" alt="🗺️" width="32" height="32"> 𝓒𝓸𝓷𝓽𝓪𝓽𝓸 :</h2>
 
