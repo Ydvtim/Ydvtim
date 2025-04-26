@@ -66,5 +66,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydvtim&layout=compact&langs_count=5&title_color=000000&text_color=000000&bg_color=ffc0cb" alt="Linguagens mais usadas: Python, Java, HTML, C, C++, SQL" />
 </p>
 
-<img src="https://raw.githubusercontent.com/Ydvtim/Ydvtim/refs/heads/output/github-snake.svg">
-
+<p align="center">
+  <span style="font-size: 26px; color: #FF69B4;">
+    𝓥𝓲𝓼𝓲𝓽𝓪𝓼 𝓪𝓸 𝓶𝓮𝓾 𝓹𝓻𝓸𝓯𝓲𝓵:
+  </span><br>
+  <img src="https://profile-counter.glitch.me/Ydvtim/count.svg" alt="Contador de Visitas">
+</p>
