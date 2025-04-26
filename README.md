@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
-<h2> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.webp" alt="👩🏽‍💻"width="32" height="32"> 𝓛𝓲𝓷𝓰𝓾𝓪𝓰𝓮𝓷𝓼 & 𝓽𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼:</h2>
+<h2> <img src="https://github.com/Ydvtim/gifs/blob/main/3be2f445535301ebc8d739576ce8b3-unscreen.gif" alt="👩🏽‍💻"width="32" height="32"> 𝓛𝓲𝓷𝓰𝓾𝓪𝓰𝓮𝓷𝓼 & 𝓽𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ydvtim&show_icons=true&hide_title=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=ffb6c1&bg_color=282a36" alt="Estatísticas do GitHub" style="display: inline-block; width: 89; max-width: 89;"/>
   
