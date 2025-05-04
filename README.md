@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydvtim&layout=compact&langs_count=5&title_color=ffc0cb&text_color=ffc0cb&bg_color=000000&cache_seconds=1" alt="Linguagens mais usadas" style="display: inline-block; width: 89; max-width: 89;"/>
 </div>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,cpp,c,arduino,github,eclipse,mysql,html,java,css&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=vscode,python,javascript,cpp,c,arduino,github,eclipse,mysql,html,java,css,django&theme=dark"/>
 </div>
 <p align="center">
   <img src="https://media4.giphy.com/media/drXjWYTyh0eg79TeEl/giphy.gif?cid=6c09b9525tozfnezrm3l1um98h8wxf4ii4wfqc0dvidsbfxo&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s" width="150" height="140"> 
