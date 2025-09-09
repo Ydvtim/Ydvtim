@@ -3,9 +3,9 @@
 </div>
 <h2><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4ab/512.webp" alt="💫" width="32" height="32"> 𝓢𝓸𝓫𝓻𝓮 𝓶𝓲𝓶 :</h2>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Ola,+bem+vindo+ao+meu+git!;Sou+Rayane+Sousa+muito+prazer!;&font=Pacifico&center=true&width=380&height=50&duration=4000&pause=1000&color=F75C7E" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Ola,+bem+vindo+ao+meu+git!;Sou+Rayane+Sousa,+muito+prazer!;&font=Pacifico&center=true&width=380&height=50&duration=4000&pause=1000&color=F75C7E" alt="Typing SVG">
 </p>
-<p align="center">𝕊𝕠𝕦 𝕖𝕤𝕥𝕦𝕕𝕒𝕟𝕥𝕖 𝕕𝕖 𝕋.𝕀 𝕟𝕠 𝕀𝔽ℂ𝔼-𝕔𝕒𝕞𝕡𝕦𝕤 𝕄𝕒𝕣𝕒𝕟𝕘𝕦𝕒𝕡𝕖, 𝕒𝕥𝕦𝕒𝕝𝕞𝕖𝕟𝕥𝕖 𝕖𝕤𝕥𝕠𝕦 𝕟𝕠 𝕤𝕖𝕞𝕖𝕤𝕥𝕣𝕖 5.</p>
+<p align="center">𝕊𝕠𝕦 𝕖𝕤𝕥𝕦𝕕𝕒𝕟𝕥𝕖 𝕕𝕖 𝕋.𝕀 𝕟𝕠 𝕀𝔽ℂ𝔼-𝕔𝕒𝕞𝕡𝕦𝕤 𝕄𝕒𝕣𝕒𝕟𝕘𝕦𝕒𝕡𝕖, 𝕒𝕥𝕦𝕒𝕝𝕞𝕖𝕟𝕥𝕖 𝕖𝕤𝕥𝕠𝕦 𝕟𝕠 𝕤𝕖𝕞𝕖𝕤𝕥𝕣𝕖 6.</p>
 <div align="center">
     <a href="https://ydvtim.github.io/sobremim/" target="_blank">
   <img src="https://img.shields.io/badge/Album_de_fotos%20-%23333?style=for-the-badge&labelColor=333333&logo=butterfly&logoColor=white" alt="Sobre mim">
