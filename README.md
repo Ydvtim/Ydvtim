@@ -23,9 +23,6 @@
 
 <h2> <img src="https://github.com/Ydvtim/gifs/blob/main/3be2f445535301ebc8d739576ce8b3-unscreen.gif" alt="👩🏽‍💻"width="32" height="32"> 𝓛𝓲𝓷𝓰𝓾𝓪𝓰𝓮𝓷𝓼 & 𝓽𝓮𝓬𝓷𝓸𝓵𝓸𝓰𝓲𝓪𝓼:</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ydvtim&show_icons=true&hide_title=true&theme=dracula&title_color=ff79c6&icon_color=ff79c6&text_color=ffb6c1&bg_color=000000&cache_seconds=1" alt="Estatísticas do GitHub" style="display: inline-block; width: 89; max-width: 89;"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ydvtim&layout=compact&langs_count=5&title_color=ffc0cb&text_color=ffc0cb&bg_color=000000&cache_seconds=1" alt="Linguagens mais usadas" style="display: inline-block; width: 89; max-width: 89;"/>
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode,python,javascript,cpp,c,arduino,github,eclipse,mysql,html,java,css,django&theme=dark"/>
