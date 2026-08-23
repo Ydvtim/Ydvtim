@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Ola,+bem+vindo+ao+meu+git!;Sou+Rayane+Sousa,+muito+prazer!;&font=Pacifico&center=true&width=380&height=50&duration=4000&pause=1000&color=F75C7E" alt="Typing SVG">
 </p>
-<p align="center">Atualmente formada em Tecnologia da informação, pelo instituto federal do Ceará. </p>
+<p align="center">Atualmente formada em Tecnologia da informação, pelo Instituto Federal do Ceará. </p>
 <div align="center">
     <a href="https://ydvtim.github.io/sobremim/" target="_blank">
   <img src="https://img.shields.io/badge/Album_de_fotos%20-%23333?style=for-the-badge&labelColor=333333&logo=butterfly&logoColor=white" alt="Sobre mim">
